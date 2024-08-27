@@ -2,3 +2,22 @@ body{
     background-color: black;
     color: white;
 }
+
+header{
+    background-color: cadetblue;
+    padding: 40px;
+}
+
+.links{
+    color: #FFF ;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: blue;
+    padding: 5px 25px;
+    border-radius: 30px;
+}
+
+.titulo1{
+    color: aqua;
+    text-align: center;
+}
