@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: white;
+    font-family: "Poppins", sans-serif;
+    padding: 0 150px;
 }
 
 header{
@@ -8,16 +10,21 @@ header{
     padding: 40px;
 }
 
-.links{
-    color: #FFF ;
-    font-size: 30px;
-    text-decoration: none;
-    background-color: blue;
-    padding: 5px 25px;
-    border-radius: 30px;
-}
-
 .titulo1{
     color: aqua;
     text-align: center;
 }
+
+.links{
+    color: #FFF ; /*cor do texto*/
+    font-size: 30px; /*tamanho do texto*/
+    text-decoration: none; /*retirar o sublinhado*/
+    background-color: blue; /*cor de fundo do texto*/
+    padding: 5px 25px; /*espaço em torno do texto*/
+    border-radius: 30px; /*deixar o botão arredondado*/
+}
+
+p{
+    font-size: 20px;
+}
+
